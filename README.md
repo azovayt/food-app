@@ -153,12 +153,14 @@ food-app/
 
 ## 📸 Diğer Ekran Görüntüleri
 
-| Hesab Detayları                                                   | Favoriler                                                    | Adreslerim                                                           |
-| ----------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------- |
-| <img src="./assets/screenshot/Hesab-Detaylari.png" width="300" /> | <img src="./assets/screenshot/Favoriler.png" width="300" />  | <img src="./assets/screenshot/Adreslerim.png" width="300" />         |
-| Adres Düzenle                                                     | Adres Ekle                                                   | Sipariş Kaydedildi                                                   |
-| ----------------------------------------------                    | ----------------------------------------------               | ----------------------------------------------                       |
-| <img src="./assets/screenshot/Adres-Duzenle.png" width="300" />   | <img src="./assets/screenshot/Adres-Ekle.png" width="300" /> | <img src="./assets/screenshot/Siparis-Kaydedildi.png" width="300" /> |
-| Giris Yap                                                         | Kayıt Ol                                                     |
-| ----------------------------------------------                    | ----------------------------------------------               |
-| <img src="./assets/screenshot/Giris-Yap.png" width="300" />       | <img src="./assets/screenshot/Kayit-Ol.png" width="300" />   |
+| Hesab Detayları                                                   | Favoriler                                                   | Adreslerim                                                   |
+| ----------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| <img src="./assets/screenshot/Hesab-Detaylari.png" width="300" /> | <img src="./assets/screenshot/Favoriler.png" width="300" /> | <img src="./assets/screenshot/Adreslerim.png" width="300" /> |
+
+| Adres Düzenle                                                   | Adres Ekle                                                   | Sipariş Kaydedildi                                                   |
+| --------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------- |
+| <img src="./assets/screenshot/Adres-Duzenle.png" width="300" /> | <img src="./assets/screenshot/Adres-Ekle.png" width="300" /> | <img src="./assets/screenshot/Siparis-Kaydedildi.png" width="300" /> |
+
+| Giris Yap                                                   | Kayıt Ol                                                   |
+| ----------------------------------------------------------- | ---------------------------------------------------------- |
+| <img src="./assets/screenshot/Giris-Yap.png" width="300" /> | <img src="./assets/screenshot/Kayit-Ol.png" width="300" /> |
