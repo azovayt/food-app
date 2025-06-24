@@ -5,7 +5,7 @@
 [![React Native](https://img.shields.io/badge/React%20Native-0.76.0-green)](https://reactnative.dev)
 [![Strapi](https://img.shields.io/badge/Strapi-5-purple)](https://strapi.io)
 
-**Food App**, React Native ve Expo tabanlı, Yemek Sepeti ve Trendyol Go gibi popüler platformları referans alarak geliştirilmiş modern bir mobil uygulamadır. Firebase'in sunduğu güçlü backend hizmetleriyle entegre çalışarak dinamik restoran listeleri, mutfak türleri ve geniş bir menü yapısı sunar. Kullanıcılar, çevrelerindeki restoranları kolayca keşfedebilir, çeşitli mutfaklardan lezzetleri inceleyebilir ve sorunsuz bir sipariş deneyimi yaşayabilirler. Uygulama, NativeWind ile modern ve duyarlı bir kullanıcı arayüzü ve Expo Router ile akıcı ve sezgisel bir navigasyon deneyimi sağlar. Proje, dinamik veri yönetimi, kullanıcı kimlik doğrulama, adres yönetimi ve kapsamlı arama özellikleriyle zenginleştirilmiştir.
+**Food App**, Lider yemek sipariş platformlarından ilham alarak geliştirdiğim React Native ve Expo tabanlı modern bir mobil yemek sipariş uygulaması. Firebase'in güçlü backend hizmetleriyle entegre olarak dinamik restoran ve menü yönetimi, kullanıcı kimlik doğrulama ve adres yönetimi gibi temel modülleri hayata geçirdim. NativeWind ile duyarlı ve modern bir kullanıcı arayüzü tasarlayıp Expo Router ile akıcı bir navigasyon deneyimi sağladım. Bu proje, kapsamlı arama ve dinamik veri yönetimi yetkinliklerimi sergilemektedir.
 
 ## 🎯 Özellikler
 
